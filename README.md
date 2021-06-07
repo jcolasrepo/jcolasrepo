@@ -2,12 +2,13 @@
 
 
 Etudiant en BTS SIO option SISR 
-Bientot en LP A2SR
+futur étudiant en LP A2SR
 
-Se  "repository" contient plusieurs script que j'ai réalisé pendant mes formations 
+Se "repository" contient un ensemble de scripts que j'ai réalisés pendant mes formations.
+ceux-ci sont réalisés en python, powershell, Bash ou C#.
 
 vous pouvez les utiliser comme bon vous semble.
 
-SI vous détecter un problème/bug merci de me faire un retour.
+SI vous détectez un problème/bug merci de me faire un retour pour que celui-ci soit corriger.
 
-addresse mail : jeremy.colasjv@outlook.fr
+addresse mail de contact: jeremy.colaspro@outlook.fr
