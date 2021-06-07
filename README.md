@@ -14,4 +14,4 @@ vous pouvez les utiliser comme bon vous semble.
 
 
 
-addresse mail de contact: jeremy.colasdev@outlook.fr
+@mail de contact: jeremy.colasdev@outlook.fr
