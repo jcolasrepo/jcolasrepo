@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jcolasrepo
 
 
-Etudiant en BTS SIO option SISR 
-futur étudiant en LP A2SR
+Etudiant en Alternance LP A2SR
 
 -Se "repository" contient un ensemble de scripts que j'ai réalisés pendant mes formations.
 
